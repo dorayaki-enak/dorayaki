@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://dorayaki-enak.github.io/dorayaki/sitemaps.xml
